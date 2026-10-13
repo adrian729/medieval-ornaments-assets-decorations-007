@@ -1,0 +1,3085 @@
+[
+  {
+    "description": "Connected Tree of Jesse acanthus ornament with its original crowned figures and reclining base figure.",
+    "categories": [
+      "floral",
+      "fantasy",
+      "humans"
+    ],
+    "subjects": [
+      "tree",
+      "crown",
+      "figure",
+      "robe",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "cream",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "acanthus-tree-of-jesse-with-crowned-figures",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3381",
+    "png": "png/acanthus-tree-of-jesse-with-crowned-figures.png",
+    "webp": "webp/acanthus-tree-of-jesse-with-crowned-figures.webp",
+    "width": 4004,
+    "height": 1741,
+    "png_bytes": 12777203,
+    "webp_bytes": 7683242,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/acanthus-tree-of-jesse-with-crowned-figures.png",
+        "webp": "webp/128/acanthus-tree-of-jesse-with-crowned-figures.webp",
+        "width": 128,
+        "height": 56,
+        "png_bytes": 26417,
+        "webp_bytes": 18300
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/acanthus-tree-of-jesse-with-crowned-figures.png",
+        "webp": "webp/256/acanthus-tree-of-jesse-with-crowned-figures.webp",
+        "width": 256,
+        "height": 111,
+        "png_bytes": 99586,
+        "webp_bytes": 64962
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/acanthus-tree-of-jesse-with-crowned-figures.png",
+        "webp": "webp/512/acanthus-tree-of-jesse-with-crowned-figures.webp",
+        "width": 512,
+        "height": 223,
+        "png_bytes": 355133,
+        "webp_bytes": 229550
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/acanthus-tree-of-jesse-with-crowned-figures.png",
+        "webp": "webp/768/acanthus-tree-of-jesse-with-crowned-figures.webp",
+        "width": 768,
+        "height": 334,
+        "png_bytes": 726508,
+        "webp_bytes": 484864
+      }
+    ],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with the Tree of Jesse",
+      "object_identifier": "1943.3.169",
+      "date": "1445–1503 (catalog year range)",
+      "artist": "Israhel van Meckenem",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3381.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "3345d7d93ce11c98826b796d7ec97a071a0c90bbd58e317494cea8295af16a0e",
+      "image_url": "https://api.nga.gov/iiif/25bc216a-651b-4357-8dae-f2b1cfe675ce/full/full/0/default.jpg",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete finite original engraved ornamental network. Actual contacting figures/props remain together. Native original source and exact AI ownership-guide prompt retained; no repeat or new frame corners inferred. Separate source-visible independent figures are considered in the source audit before source completion.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4096,
+      "height": 1849
+    },
+    "master_longest_dimension_cap": 4004,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite engraved frieze of animals among curling leafy stems.",
+    "categories": [
+      "animals",
+      "floral"
+    ],
+    "subjects": [
+      "animal",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "animals-in-finite-leafy-frieze",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101811",
+    "png": "png/animals-in-finite-leafy-frieze.png",
+    "webp": "webp/animals-in-finite-leafy-frieze.webp",
+    "width": 477,
+    "height": 82,
+    "png_bytes": 93858,
+    "webp_bytes": 61086,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/animals-in-finite-leafy-frieze.png",
+        "webp": "webp/128/animals-in-finite-leafy-frieze.webp",
+        "width": 128,
+        "height": 22,
+        "png_bytes": 8811,
+        "webp_bytes": 6168
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/animals-in-finite-leafy-frieze.png",
+        "webp": "webp/256/animals-in-finite-leafy-frieze.webp",
+        "width": 256,
+        "height": 44,
+        "png_bytes": 30382,
+        "webp_bytes": 20774
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Tierfries, Blatt aus der Folge \"Mancherlei Conterfectisches von Thierlein etc.\"",
+      "object_identifier": "O1911.604",
+      "date": "1557",
+      "artist": "Solis, Virgil",
+      "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/tierfries-blatt-folge-mancherlei-conterfectisches-thierlein-etc/O1911.604",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "3d287d987d65cf70dd26db438ff7712463d1e2ad949676a9029443b1a93dc3e7",
+      "image_url": "https://www.mkg-hamburg.de/object/dc00101811/image-download/0",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 500,
+      "height": 78
+    },
+    "master_longest_dimension_cap": 477,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite engraved frieze with many birds perched on flowering scrolls.",
+    "categories": [
+      "animals",
+      "floral"
+    ],
+    "subjects": [
+      "bird",
+      "flower",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "birds-on-flowering-scroll-frieze",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101812",
+    "png": "png/birds-on-flowering-scroll-frieze.png",
+    "webp": "webp/birds-on-flowering-scroll-frieze.webp",
+    "width": 475,
+    "height": 113,
+    "png_bytes": 129403,
+    "webp_bytes": 84132,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/birds-on-flowering-scroll-frieze.png",
+        "webp": "webp/128/birds-on-flowering-scroll-frieze.webp",
+        "width": 128,
+        "height": 30,
+        "png_bytes": 12215,
+        "webp_bytes": 8256
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/birds-on-flowering-scroll-frieze.png",
+        "webp": "webp/256/birds-on-flowering-scroll-frieze.webp",
+        "width": 256,
+        "height": 61,
+        "png_bytes": 43518,
+        "webp_bytes": 28206
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Vogelfries, Blatt aus der Folge \"Mancherlei Conterfectisches von Thierlein etc.\"",
+      "object_identifier": "O1911.605",
+      "date": "1557",
+      "artist": "Solis, Virgil",
+      "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/vogelfries-blatt-folge-mancherlei-conterfectisches-thierlein-etc/O1911.605",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "117f2d137390221c6a126b8cfcca955e8f4ae2084db2917d6d88355f49f871cb",
+      "image_url": "https://www.mkg-hamburg.de/object/dc00101812/image-download/0",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 500,
+      "height": 112
+    },
+    "master_longest_dimension_cap": 475,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A continuous engraved branching ornament with broad curled lobed leaves and small trumpet-shaped central flower.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll",
+      "flower"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "branching-scroll-with-broad-lobed-leaves",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101612",
+    "png": "png/branching-scroll-with-broad-lobed-leaves.png",
+    "webp": "webp/branching-scroll-with-broad-lobed-leaves.webp",
+    "width": 469,
+    "height": 349,
+    "png_bytes": 350116,
+    "webp_bytes": 229072,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/branching-scroll-with-broad-lobed-leaves.png",
+        "webp": "webp/128/branching-scroll-with-broad-lobed-leaves.webp",
+        "width": 128,
+        "height": 95,
+        "png_bytes": 36549,
+        "webp_bytes": 24932
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/branching-scroll-with-broad-lobed-leaves.png",
+        "webp": "webp/256/branching-scroll-with-broad-lobed-leaves.webp",
+        "width": 256,
+        "height": 191,
+        "png_bytes": 120996,
+        "webp_bytes": 86724
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Laubwerkfüllung",
+      "object_identifier": "O1912.85",
+      "date": "1530",
+      "artist": "Aldegrever, Heinrich",
+      "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/laubwerkfullung/O1912.85/dc00101612",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "d57eef3bddcf8f0f2a2360773bd069292433ab2eae4bb3913760151c3265697e",
+      "image_url": "https://www.mkg-hamburg.de/object/dc00101612/image-download/0",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 500,
+      "height": 372
+    },
+    "master_longest_dimension_cap": 469,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A fixed circular acanthus ornament with grotesque figures and masks. Part of the Circular Ornament with Musicians Playing near a Well (nga-3375) set.",
+    "categories": [
+      "floral",
+      "hybrids",
+      "scrollwork"
+    ],
+    "subjects": [
+      "acanthus",
+      "leaf",
+      "grotesque",
+      "mask",
+      "frame"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "circular-acanthus-and-grotesque-ornament",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3375",
+    "png": "png/circular-acanthus-and-grotesque-ornament.png",
+    "webp": "webp/circular-acanthus-and-grotesque-ornament.webp",
+    "width": 1235,
+    "height": 1274,
+    "png_bytes": 2895400,
+    "webp_bytes": 2025872,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/circular-acanthus-and-grotesque-ornament.png",
+        "webp": "webp/128/circular-acanthus-and-grotesque-ornament.webp",
+        "width": 124,
+        "height": 128,
+        "png_bytes": 41094,
+        "webp_bytes": 28920
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/circular-acanthus-and-grotesque-ornament.png",
+        "webp": "webp/256/circular-acanthus-and-grotesque-ornament.webp",
+        "width": 248,
+        "height": 256,
+        "png_bytes": 150124,
+        "webp_bytes": 107856
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/circular-acanthus-and-grotesque-ornament.png",
+        "webp": "webp/512/circular-acanthus-and-grotesque-ornament.webp",
+        "width": 496,
+        "height": 512,
+        "png_bytes": 540657,
+        "webp_bytes": 368668
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/circular-acanthus-and-grotesque-ornament.png",
+        "webp": "webp/768/circular-acanthus-and-grotesque-ornament.webp",
+        "width": 744,
+        "height": 768,
+        "png_bytes": 1152313,
+        "webp_bytes": 793340
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Circular Ornament with Musicians Playing near a Well",
+      "object_identifier": "1943.3.163",
+      "date": "c. 1495/1503",
+      "artist": "Israhel van Meckenem",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3375.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "e60d9b77c83e40852274de9b27356b17f0dc4fb3d00abc058b5c5229c5a40336",
+      "image_url": "https://api.nga.gov/iiif/402edd12-ca6a-4c3c-b9d0-507e8f95e985/full/full/0/default.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original independent specimen with printed plate rules and page removed. AI-assisted extraction remains approximate; source bounds, actual native subject cap, original and exact prompt retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "sets": [
+      {
+        "id": "nga-3375-set",
+        "name": "Circular Ornament with Musicians Playing near a Well (nga-3375)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3632,
+      "height": 3688
+    },
+    "master_longest_dimension_cap": 1274,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete finite model-book ornament with two crossed knots flanking four curling foliate lobes and small flower terminals. Part of the Modelbuch interlaced loops and flowers set.",
+    "categories": [
+      "geometric",
+      "floral",
+      "knotwork"
+    ],
+    "subjects": [
+      "knot",
+      "leaf",
+      "scroll",
+      "flower"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "crossed-knots-and-four-foliate-scroll-panel",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-681253",
+    "png": "png/crossed-knots-and-four-foliate-scroll-panel.png",
+    "webp": "webp/crossed-knots-and-four-foliate-scroll-panel.webp",
+    "width": 1194,
+    "height": 382,
+    "png_bytes": 290646,
+    "webp_bytes": 182522,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/crossed-knots-and-four-foliate-scroll-panel.png",
+        "webp": "webp/128/crossed-knots-and-four-foliate-scroll-panel.webp",
+        "width": 128,
+        "height": 41,
+        "png_bytes": 14268,
+        "webp_bytes": 6530
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/crossed-knots-and-four-foliate-scroll-panel.png",
+        "webp": "webp/256/crossed-knots-and-four-foliate-scroll-panel.webp",
+        "width": 256,
+        "height": 82,
+        "png_bytes": 48728,
+        "webp_bytes": 22782
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/crossed-knots-and-four-foliate-scroll-panel.png",
+        "webp": "webp/512/crossed-knots-and-four-foliate-scroll-panel.webp",
+        "width": 512,
+        "height": 164,
+        "png_bytes": 158174,
+        "webp_bytes": 78118
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/crossed-knots-and-four-foliate-scroll-panel.png",
+        "webp": "webp/768/crossed-knots-and-four-foliate-scroll-panel.webp",
+        "width": 768,
+        "height": 246,
+        "png_bytes": 310258,
+        "webp_bytes": 164332
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Page from Ein new kunstlich Modelbuch...(Page 2v)",
+      "object_identifier": "22.84.1(2v)",
+      "date": "1544",
+      "artist": "Peter Quentel",
+      "record_url": "https://www.metmuseum.org/art/collection/search/681253",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "addb61701877a67401271c155a51f9f490ea1e6c10703be1979e1a28d524c982",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP357022.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original complete finite panel retained. Similar end knots alone do not establish a whole seamless cycle; no translated repeat or new corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-681253-set",
+        "name": "Modelbuch interlaced loops and flowers"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2162,
+      "height": 2624
+    },
+    "master_longest_dimension_cap": 1194,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete late-medieval foliage ornament with broad curling lobed leaves and a long sinuous stem.",
+    "categories": [
+      "botanical",
+      "scrollwork"
+    ],
+    "subjects": [
+      "foliage",
+      "leaves",
+      "curved-stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "cream",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "curling-leaf-ornament",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3304",
+    "png": "png/curling-leaf-ornament.png",
+    "webp": "webp/curling-leaf-ornament.webp",
+    "width": 982,
+    "height": 1539,
+    "png_bytes": 1666549,
+    "webp_bytes": 1042344,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/curling-leaf-ornament.png",
+        "webp": "webp/128/curling-leaf-ornament.webp",
+        "width": 82,
+        "height": 128,
+        "png_bytes": 19681,
+        "webp_bytes": 12766
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/curling-leaf-ornament.png",
+        "webp": "webp/256/curling-leaf-ornament.webp",
+        "width": 163,
+        "height": 256,
+        "png_bytes": 63417,
+        "webp_bytes": 42420
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/curling-leaf-ornament.png",
+        "webp": "webp/512/curling-leaf-ornament.webp",
+        "width": 327,
+        "height": 512,
+        "png_bytes": 216797,
+        "webp_bytes": 130120
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/curling-leaf-ornament.png",
+        "webp": "webp/768/curling-leaf-ornament.webp",
+        "width": 490,
+        "height": 768,
+        "png_bytes": 457688,
+        "webp_bytes": 277146
+      }
+    ],
+    "svg": "svg/curling-leaf-ornament.svg",
+    "viewbox": [
+      0,
+      0,
+      982,
+      1539
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Leaf Ornament",
+      "object_identifier": "1943.3.92",
+      "date": "c. 1480/1490",
+      "artist": "Martin Schongauer",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3304.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "1e8e2cd8ca16f62349117a9dab3bcefc5042ad7d631d9ce85d931b13c7fd7e94",
+      "image_url": "https://api.nga.gov/iiif/ae603a15-6b28-4fac-ad99-e15c290787ee/full/full/0/default.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete original curved foliage; no demonstrated repeat. AI-assisted extraction retains opaque illustrated highlights and removes the surrounding paper and true openings. See original source for fine engraving comparison.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2627,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 1539,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete curved thistle-leaf ornament with deeply curling thorned foliage and a long swept stem.",
+    "categories": [
+      "botanical",
+      "scrollwork"
+    ],
+    "subjects": [
+      "foliage",
+      "thistle",
+      "curved-stem"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "cream",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "curling-thistle-ornament",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3303",
+    "png": "png/curling-thistle-ornament.png",
+    "webp": "webp/curling-thistle-ornament.webp",
+    "width": 1025,
+    "height": 1511,
+    "png_bytes": 1815012,
+    "webp_bytes": 1148134,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/curling-thistle-ornament.png",
+        "webp": "webp/128/curling-thistle-ornament.webp",
+        "width": 87,
+        "height": 128,
+        "png_bytes": 21878,
+        "webp_bytes": 13782
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/curling-thistle-ornament.png",
+        "webp": "webp/256/curling-thistle-ornament.webp",
+        "width": 174,
+        "height": 256,
+        "png_bytes": 70829,
+        "webp_bytes": 45644
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/curling-thistle-ornament.png",
+        "webp": "webp/512/curling-thistle-ornament.webp",
+        "width": 347,
+        "height": 512,
+        "png_bytes": 239092,
+        "webp_bytes": 150030
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/curling-thistle-ornament.png",
+        "webp": "webp/768/curling-thistle-ornament.webp",
+        "width": 521,
+        "height": 768,
+        "png_bytes": 508319,
+        "webp_bytes": 317368
+      }
+    ],
+    "svg": "svg/curling-thistle-ornament.svg",
+    "viewbox": [
+      0,
+      0,
+      1025,
+      1511
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Thistle Ornament",
+      "object_identifier": "1943.3.91",
+      "date": "1450–1491 (catalog year range)",
+      "artist": "Martin Schongauer",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3303.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "9311b765f9b8a2b9897e141cfd698187b23ca21cc4bd8275a275ed04faf9827c",
+      "image_url": "https://api.nga.gov/iiif/ef921c34-916e-42e4-97a0-933cf8e94350/full/full/0/default.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Complete original curved foliage; no demonstrated repeat. AI-assisted extraction retains opaque illustrated highlights and removes the surrounding paper and true openings. See original source for fine engraving comparison.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2813,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 1511,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite arabesque cartouche with interlaced ribbon-like bands, dense leaf scrolls and pointed side and central terminals.",
+    "categories": [
+      "floral",
+      "geometric",
+      "scrollwork"
+    ],
+    "subjects": [
+      "arabesque",
+      "cartouche",
+      "ribbon",
+      "scroll",
+      "leaf"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "finite-interlaced-arabesque-cartouche",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-696807",
+    "png": "png/finite-interlaced-arabesque-cartouche.png",
+    "webp": "webp/finite-interlaced-arabesque-cartouche.webp",
+    "width": 2510,
+    "height": 1754,
+    "png_bytes": 2420610,
+    "webp_bytes": 1560632,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/finite-interlaced-arabesque-cartouche.png",
+        "webp": "webp/128/finite-interlaced-arabesque-cartouche.webp",
+        "width": 128,
+        "height": 89,
+        "png_bytes": 21119,
+        "webp_bytes": 10136
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/finite-interlaced-arabesque-cartouche.png",
+        "webp": "webp/256/finite-interlaced-arabesque-cartouche.webp",
+        "width": 256,
+        "height": 179,
+        "png_bytes": 77351,
+        "webp_bytes": 37040
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/finite-interlaced-arabesque-cartouche.png",
+        "webp": "webp/512/finite-interlaced-arabesque-cartouche.webp",
+        "width": 512,
+        "height": 358,
+        "png_bytes": 270438,
+        "webp_bytes": 128208
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/finite-interlaced-arabesque-cartouche.png",
+        "webp": "webp/768/finite-interlaced-arabesque-cartouche.webp",
+        "width": 768,
+        "height": 537,
+        "png_bytes": 560206,
+        "webp_bytes": 270510
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Arabesque Design on Dark Ground",
+      "object_identifier": "33.70.39",
+      "date": "1534–1562",
+      "artist": "Virgil Solis",
+      "record_url": "https://www.metmuseum.org/art/collection/search/696807",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "9766c1175b0eed8f2a3c5a67f793ac76c2e1a03ef874ebb70c75d35a8c9b3947",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP854199.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native ink appearance retained with continuous transparency. This finite original ornament establishes no seamless period; no repeat or corner atlas inferred. SVG withheld where tracing alters the source print grain.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3270,
+      "height": 2108
+    },
+    "master_longest_dimension_cap": 2510,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An intertwined hop vine and broad curling foliage, with hanging hop cones, serrated leaves and deeply lobed scroll leaves.",
+    "categories": [
+      "botanical",
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "hop",
+      "vine",
+      "leaf",
+      "cone",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "intertwined-hop-vine-and-lobed-leaf-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3302",
+    "png": "png/intertwined-hop-vine-and-lobed-leaf-scroll.png",
+    "webp": "webp/intertwined-hop-vine-and-lobed-leaf-scroll.webp",
+    "width": 4079,
+    "height": 2915,
+    "png_bytes": 8160434,
+    "webp_bytes": 5469532,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/intertwined-hop-vine-and-lobed-leaf-scroll.png",
+        "webp": "webp/128/intertwined-hop-vine-and-lobed-leaf-scroll.webp",
+        "width": 128,
+        "height": 91,
+        "png_bytes": 32983,
+        "webp_bytes": 13758
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/intertwined-hop-vine-and-lobed-leaf-scroll.png",
+        "webp": "webp/256/intertwined-hop-vine-and-lobed-leaf-scroll.webp",
+        "width": 256,
+        "height": 183,
+        "png_bytes": 131070,
+        "webp_bytes": 51370
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/intertwined-hop-vine-and-lobed-leaf-scroll.png",
+        "webp": "webp/512/intertwined-hop-vine-and-lobed-leaf-scroll.webp",
+        "width": 512,
+        "height": 366,
+        "png_bytes": 466491,
+        "webp_bytes": 191414
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/intertwined-hop-vine-and-lobed-leaf-scroll.png",
+        "webp": "webp/768/intertwined-hop-vine-and-lobed-leaf-scroll.webp",
+        "width": 768,
+        "height": 549,
+        "png_bytes": 946269,
+        "webp_bytes": 409790
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with Hop Vine",
+      "object_identifier": "1943.3.90",
+      "date": "c. 1480/1490",
+      "artist": "Martin Schongauer",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3302.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "3336d71d8e2aa0bab32460bc5bc4a110c1fec95ce4c41d15210dd0dfec17e8e7",
+      "image_url": "https://api.nga.gov/iiif/4130d104-3624-44c3-80d5-a3425865e186/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original finite engraved composition retained with its source-supported outside plate rules. Clipped rules recovered from adjacent original scan pixels; faint thin-rule gaps narrowly completed with neighboring native ink profiles where recorded. Decorative hatch bands retain original print wear. No generic replacement frame or repeat is inferred. Finite original decoration; no repeat or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 4096,
+      "height": 2915
+    },
+    "master_longest_dimension_cap": 4079,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite intertwined-ribbon panel with flowers and curled leaves; the two motifs differ. Part of the Modelbuch knots and floral diamonds set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "ribbon",
+      "flower",
+      "leaf",
+      "knot"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "large-knotted-ribbons-with-flowers-and-curled-leaves",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-681251",
+    "png": "png/large-knotted-ribbons-with-flowers-and-curled-leaves.png",
+    "webp": "webp/large-knotted-ribbons-with-flowers-and-curled-leaves.webp",
+    "width": 1181,
+    "height": 726,
+    "png_bytes": 470450,
+    "webp_bytes": 279546,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/large-knotted-ribbons-with-flowers-and-curled-leaves.png",
+        "webp": "webp/128/large-knotted-ribbons-with-flowers-and-curled-leaves.webp",
+        "width": 128,
+        "height": 79,
+        "png_bytes": 27619,
+        "webp_bytes": 11740
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/large-knotted-ribbons-with-flowers-and-curled-leaves.png",
+        "webp": "webp/256/large-knotted-ribbons-with-flowers-and-curled-leaves.webp",
+        "width": 256,
+        "height": 157,
+        "png_bytes": 88593,
+        "webp_bytes": 37800
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/large-knotted-ribbons-with-flowers-and-curled-leaves.png",
+        "webp": "webp/512/large-knotted-ribbons-with-flowers-and-curled-leaves.webp",
+        "width": 512,
+        "height": 315,
+        "png_bytes": 283467,
+        "webp_bytes": 128912
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/large-knotted-ribbons-with-flowers-and-curled-leaves.png",
+        "webp": "webp/768/large-knotted-ribbons-with-flowers-and-curled-leaves.webp",
+        "width": 768,
+        "height": 472,
+        "png_bytes": 532026,
+        "webp_bytes": 267434
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Page from Ein new kunstlich Modelbuch...(Page 2r)",
+      "object_identifier": "22.84.1(2r)",
+      "date": "1544",
+      "artist": "Peter Quentel",
+      "record_url": "https://www.metmuseum.org/art/collection/search/681251",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "bae677b486ebff0386efabee060e4f417621c1443b94c9ee08e94d357d8e8918",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP357021.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The original finite strip is retained. Similar ends alone do not establish a full repeating cycle; no seamless tile or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-681251-set",
+        "name": "Modelbuch knots and floral diamonds"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2003,
+      "height": 2559
+    },
+    "master_longest_dimension_cap": 1181,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Source-visible left tree and connected engraved foliage cluster from the landscape. Part of the Livre Nouveau de Fleurs set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "tree",
+      "leaf",
+      "branch",
+      "grass"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "left-tree-and-connected-foliage-cluster",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-425823",
+    "png": "png/left-tree-and-connected-foliage-cluster.png",
+    "webp": "webp/left-tree-and-connected-foliage-cluster.webp",
+    "width": 234,
+    "height": 500,
+    "png_bytes": 95937,
+    "webp_bytes": 63478,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/left-tree-and-connected-foliage-cluster.png",
+        "webp": "webp/128/left-tree-and-connected-foliage-cluster.webp",
+        "width": 60,
+        "height": 128,
+        "png_bytes": 16166,
+        "webp_bytes": 8870
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/left-tree-and-connected-foliage-cluster.png",
+        "webp": "webp/256/left-tree-and-connected-foliage-cluster.webp",
+        "width": 120,
+        "height": 256,
+        "png_bytes": 59212,
+        "webp_bytes": 32286
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\"",
+      "object_identifier": "53.600.261(5)",
+      "date": "1645",
+      "artist": "Nicolas Cochin",
+      "record_url": "https://www.metmuseum.org/art/collection/search/425823",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "9f4afcf3269955d64878e31d9dc1e52262f4464443d9326bd49ea9db1193b199",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP837396.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source print strokes and measured ink tone isolated from paper. Contacting figures and their linking props remain one original group. Source grain retained without an inaccurate vector alternative; no native upscaling or newly drawn anatomy.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "livre-nouveau-de-fleurs",
+        "name": "Livre Nouveau de Fleurs"
+      },
+      {
+        "id": "met-425823-set",
+        "name": "Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\" (met-425823)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3343,
+      "height": 2339
+    },
+    "master_longest_dimension_cap": 500,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small lower grotesque face mask. Part of the De Bry B alphabet ornaments set.",
+    "categories": [
+      "humans",
+      "hybrids"
+    ],
+    "subjects": [
+      "face",
+      "mask",
+      "grotesque"
+    ],
+    "facing": "front",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "lower-grotesque-face-mask",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101865",
+    "png": "png/lower-grotesque-face-mask.png",
+    "webp": "webp/lower-grotesque-face-mask.webp",
+    "width": 33,
+    "height": 41,
+    "png_bytes": 1894,
+    "webp_bytes": 1084,
+    "variants": [],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+      "object_identifier": "O1913.136",
+      "date": "1595",
+      "artist": "Bry, Johann Theodor de",
+      "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43",
+      "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent ornament isolated from the capital B; original source is only 364x500 pixels, so no source upscaling or claimed recovered detail. Exact original, source bounds, processing and guide retained. Large letter framework and unrelated motifs excluded.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "mkg-dc00101865-set",
+        "name": "De Bry B alphabet ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 364,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 41,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tied foliate trophy with crossed slender implements and a leafy sprig. Part of the De Bry B alphabet ornaments set.",
+    "categories": [
+      "botanical"
+    ],
+    "subjects": [
+      "trophy",
+      "implement",
+      "leaf",
+      "ribbon"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "lower-right-foliate-trophy-with-tied-ribbon",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101865",
+    "png": "png/lower-right-foliate-trophy-with-tied-ribbon.png",
+    "webp": "webp/lower-right-foliate-trophy-with-tied-ribbon.webp",
+    "width": 88,
+    "height": 109,
+    "png_bytes": 15099,
+    "webp_bytes": 8988,
+    "variants": [],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+      "object_identifier": "O1913.136",
+      "date": "1595",
+      "artist": "Bry, Johann Theodor de",
+      "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43",
+      "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent ornament isolated from the capital B; original source is only 364x500 pixels, so no source upscaling or claimed recovered detail. Exact original, source bounds, processing and guide retained. Large letter framework and unrelated motifs excluded.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "mkg-dc00101865-set",
+        "name": "De Bry B alphabet ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 364,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 109,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete model-book panel with two floral diamonds and mirrored figure-eight loops and leafy curls at its ends. Part of the Modelbuch interlaced loops and flowers set.",
+    "categories": [
+      "geometric",
+      "floral",
+      "knotwork"
+    ],
+    "subjects": [
+      "loop",
+      "leaf",
+      "diamond",
+      "rosette",
+      "star"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "mirrored-figure-eight-loops-and-floral-diamonds-panel",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-681253",
+    "png": "png/mirrored-figure-eight-loops-and-floral-diamonds-panel.png",
+    "webp": "webp/mirrored-figure-eight-loops-and-floral-diamonds-panel.webp",
+    "width": 1194,
+    "height": 422,
+    "png_bytes": 302076,
+    "webp_bytes": 185978,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/mirrored-figure-eight-loops-and-floral-diamonds-panel.png",
+        "webp": "webp/128/mirrored-figure-eight-loops-and-floral-diamonds-panel.webp",
+        "width": 128,
+        "height": 45,
+        "png_bytes": 15726,
+        "webp_bytes": 6894
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/mirrored-figure-eight-loops-and-floral-diamonds-panel.png",
+        "webp": "webp/256/mirrored-figure-eight-loops-and-floral-diamonds-panel.webp",
+        "width": 256,
+        "height": 90,
+        "png_bytes": 53036,
+        "webp_bytes": 23630
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/mirrored-figure-eight-loops-and-floral-diamonds-panel.png",
+        "webp": "webp/512/mirrored-figure-eight-loops-and-floral-diamonds-panel.webp",
+        "width": 512,
+        "height": 181,
+        "png_bytes": 168606,
+        "webp_bytes": 79980
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/mirrored-figure-eight-loops-and-floral-diamonds-panel.png",
+        "webp": "webp/768/mirrored-figure-eight-loops-and-floral-diamonds-panel.webp",
+        "width": 768,
+        "height": 271,
+        "png_bytes": 326613,
+        "webp_bytes": 166920
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Page from Ein new kunstlich Modelbuch...(Page 2v)",
+      "object_identifier": "22.84.1(2v)",
+      "date": "1544",
+      "artist": "Peter Quentel",
+      "record_url": "https://www.metmuseum.org/art/collection/search/681253",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "addb61701877a67401271c155a51f9f490ea1e6c10703be1979e1a28d524c982",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP357022.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original complete finite panel with mirrored end foliage retained. Its two end loops differ in direction, so they are not treated as matching translated phases. No seamless repeat or new corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-681253-set",
+        "name": "Modelbuch interlaced loops and flowers"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2162,
+      "height": 2624
+    },
+    "master_longest_dimension_cap": 1194,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A finite floral-wave panel with mirrored ends and a distinct central interlace. Part of the Modelbuch knots and floral diamonds set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "flower",
+      "scroll",
+      "interlace"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "mirrored-floral-wave-with-central-interlace",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-681251",
+    "png": "png/mirrored-floral-wave-with-central-interlace.png",
+    "webp": "webp/mirrored-floral-wave-with-central-interlace.webp",
+    "width": 1181,
+    "height": 104,
+    "png_bytes": 100522,
+    "webp_bytes": 63510,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/mirrored-floral-wave-with-central-interlace.png",
+        "webp": "webp/128/mirrored-floral-wave-with-central-interlace.webp",
+        "width": 128,
+        "height": 11,
+        "png_bytes": 3798,
+        "webp_bytes": 2276
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/mirrored-floral-wave-with-central-interlace.png",
+        "webp": "webp/256/mirrored-floral-wave-with-central-interlace.webp",
+        "width": 256,
+        "height": 23,
+        "png_bytes": 15256,
+        "webp_bytes": 7934
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/mirrored-floral-wave-with-central-interlace.png",
+        "webp": "webp/512/mirrored-floral-wave-with-central-interlace.webp",
+        "width": 512,
+        "height": 45,
+        "png_bytes": 51318,
+        "webp_bytes": 27256
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/mirrored-floral-wave-with-central-interlace.png",
+        "webp": "webp/768/mirrored-floral-wave-with-central-interlace.webp",
+        "width": 768,
+        "height": 68,
+        "png_bytes": 104247,
+        "webp_bytes": 56326
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Page from Ein new kunstlich Modelbuch...(Page 2r)",
+      "object_identifier": "22.84.1(2r)",
+      "date": "1544",
+      "artist": "Peter Quentel",
+      "record_url": "https://www.metmuseum.org/art/collection/search/681251",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "bae677b486ebff0386efabee060e4f417621c1443b94c9ee08e94d357d8e8918",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP357021.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The original finite strip is retained. Similar ends alone do not establish a full repeating cycle; no seamless tile or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-681251-set",
+        "name": "Modelbuch knots and floral diamonds"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2003,
+      "height": 2559
+    },
+    "master_longest_dimension_cap": 1181,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An original fixed printer frame with an oval-chain top, foliate sides and a wider four-lobed bottom band. Part of the Schön Neues Modelbuch (Page 4 recto) (met-680623) set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "frame",
+      "leaf",
+      "oval",
+      "palmette"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown"
+    ],
+    "composition": "single-ornament",
+    "name": "mixed-oval-chain-and-floral-printer-frame",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-680623",
+    "png": "png/mixed-oval-chain-and-floral-printer-frame.png",
+    "webp": "webp/mixed-oval-chain-and-floral-printer-frame.webp",
+    "width": 1990,
+    "height": 1733,
+    "png_bytes": 712566,
+    "webp_bytes": 426928,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/mixed-oval-chain-and-floral-printer-frame.png",
+        "webp": "webp/128/mixed-oval-chain-and-floral-printer-frame.webp",
+        "width": 128,
+        "height": 111,
+        "png_bytes": 9751,
+        "webp_bytes": 5422
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/mixed-oval-chain-and-floral-printer-frame.png",
+        "webp": "webp/256/mixed-oval-chain-and-floral-printer-frame.webp",
+        "width": 256,
+        "height": 223,
+        "png_bytes": 38631,
+        "webp_bytes": 17730
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/mixed-oval-chain-and-floral-printer-frame.png",
+        "webp": "webp/512/mixed-oval-chain-and-floral-printer-frame.webp",
+        "width": 512,
+        "height": 446,
+        "png_bytes": 133890,
+        "webp_bytes": 62400
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/mixed-oval-chain-and-floral-printer-frame.png",
+        "webp": "webp/768/mixed-oval-chain-and-floral-printer-frame.webp",
+        "width": 768,
+        "height": 669,
+        "png_bytes": 275179,
+        "webp_bytes": 134578
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schön Neues Modelbuch (Page 4 recto)",
+      "object_identifier": "20.16(4r)",
+      "date": "1597",
+      "artist": "Johann Sibmacher",
+      "record_url": "https://www.metmuseum.org/art/collection/search/680623",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "29e6b4772aa319b0371aefa51d8a75b874d4390366148afc47345b74bf28a3d6",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP363471.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole original fixed frame with all four original corners. Top, sides and bottom use different motifs. Interior printed text is removed; no generic corner substitutions or uniform-tile claim. Native measured ink coverage retains original worn printing.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-680623-set",
+        "name": "Schön Neues Modelbuch (Page 4 recto) (met-680623)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2979,
+      "height": 2227
+    },
+    "master_longest_dimension_cap": 1990,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An ornate engraved double cup with two children, masks and curling foliage.",
+    "categories": [
+      "humans",
+      "floral"
+    ],
+    "subjects": [
+      "cup",
+      "child",
+      "mask",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "ornate-double-cup-with-two-children",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101707",
+    "png": "png/ornate-double-cup-with-two-children.png",
+    "webp": "webp/ornate-double-cup-with-two-children.webp",
+    "width": 264,
+    "height": 469,
+    "png_bytes": 318487,
+    "webp_bytes": 192890,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/ornate-double-cup-with-two-children.png",
+        "webp": "webp/128/ornate-double-cup-with-two-children.webp",
+        "width": 72,
+        "height": 128,
+        "png_bytes": 29391,
+        "webp_bytes": 18352
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/ornate-double-cup-with-two-children.png",
+        "webp": "webp/256/ornate-double-cup-with-two-children.webp",
+        "width": 144,
+        "height": 256,
+        "png_bytes": 105615,
+        "webp_bytes": 66802
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Doppelpokal, unten zwei Putti mit Wappenschilden",
+      "object_identifier": "O1919.19",
+      "date": "1531",
+      "artist": "Beham, Hans Sebald",
+      "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/doppelpokal-unten-zwei-putti-wappenschilden/O1919.19/dc00101707",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "a7107d63eed5b21979e77a271d2e10f87c10816a336eaf2bbadd5a2e51267049",
+      "image_url": "https://www.mkg-hamburg.de/object/dc00101707/image-download/0",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 277,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 469,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An owl with spread wings and day birds among broad curling foliage. Part of the Ornament with Owl Mocked by Day Birds (nga-3305) set.",
+    "categories": [
+      "animals",
+      "floral"
+    ],
+    "subjects": [
+      "owl",
+      "bird",
+      "leaf",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "owl-and-perching-birds-in-leafy-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "nga-3305",
+    "png": "png/owl-and-perching-birds-in-leafy-scroll.png",
+    "webp": "webp/owl-and-perching-birds-in-leafy-scroll.webp",
+    "width": 2765,
+    "height": 3960,
+    "png_bytes": 7609472,
+    "webp_bytes": 5259512,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/owl-and-perching-birds-in-leafy-scroll.png",
+        "webp": "webp/128/owl-and-perching-birds-in-leafy-scroll.webp",
+        "width": 89,
+        "height": 128,
+        "png_bytes": 30708,
+        "webp_bytes": 14034
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/owl-and-perching-birds-in-leafy-scroll.png",
+        "webp": "webp/256/owl-and-perching-birds-in-leafy-scroll.webp",
+        "width": 179,
+        "height": 256,
+        "png_bytes": 121713,
+        "webp_bytes": 52894
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/owl-and-perching-birds-in-leafy-scroll.png",
+        "webp": "webp/512/owl-and-perching-birds-in-leafy-scroll.webp",
+        "width": 357,
+        "height": 512,
+        "png_bytes": 440309,
+        "webp_bytes": 198084
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/owl-and-perching-birds-in-leafy-scroll.png",
+        "webp": "webp/768/owl-and-perching-birds-in-leafy-scroll.webp",
+        "width": 536,
+        "height": 768,
+        "png_bytes": 921033,
+        "webp_bytes": 423358
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "National Gallery of Art, Washington",
+      "title": "Ornament with Owl Mocked by Day Birds",
+      "object_identifier": "1943.3.93",
+      "date": "c. 1480/1490",
+      "artist": "Martin Schongauer",
+      "record_url": "https://www.nga.gov/collection/art-object-page.3305.html",
+      "image_rights": "Open Access / public domain; official image dataset openaccess=1",
+      "rights_url": "https://www.nga.gov/artworks/free-images-and-open-access",
+      "source_sha256": "d4977fd42e66afc84dfa4575ae585bd403b62874b381c97e6ac7380c6d1873e6",
+      "image_url": "https://api.nga.gov/iiif/d626f080-0fb8-4305-8619-2d1bf53dd536/full/full/0/default.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "A complete finite original foliate ornament; the two independent flying birds are also delivered as separate illustrations. Native measured continuous ink coverage; no seamless repeat inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "nga-3305-set",
+        "name": "Ornament with Owl Mocked by Day Birds (nga-3305)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2870,
+      "height": 4096
+    },
+    "master_longest_dimension_cap": 3960,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Paired bulbous pendants with shared curling stems and small foliate caps. Part of the De Bry B alphabet ornaments set.",
+    "categories": [
+      "scrollwork"
+    ],
+    "subjects": [
+      "pendant",
+      "stem",
+      "curl"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-bulbous-pendants-with-curling-stems",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101865",
+    "png": "png/paired-bulbous-pendants-with-curling-stems.png",
+    "webp": "webp/paired-bulbous-pendants-with-curling-stems.webp",
+    "width": 50,
+    "height": 76,
+    "png_bytes": 6755,
+    "webp_bytes": 3942,
+    "variants": [],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+      "object_identifier": "O1913.136",
+      "date": "1595",
+      "artist": "Bry, Johann Theodor de",
+      "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43",
+      "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The clearest source-visible pair is retained. The similar upper-right pair is partially occluded by the putto and the lower pair overlaps the letter stroke; compare their render before retaining any duplicate motif. Source is only 364x500 pixels; no source upscaling or inferred repeating unit.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "mkg-dc00101865-set",
+        "name": "De Bry B alphabet ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 364,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 76,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A tall candelabrum with paired horns, a top mask, facing griffins and two lower children among foliage.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "horn",
+      "mask",
+      "griffin",
+      "child",
+      "leaf",
+      "cup"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-horns-griffins-and-children-in-candelabrum",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101642",
+    "png": "png/paired-horns-griffins-and-children-in-candelabrum.png",
+    "webp": "webp/paired-horns-griffins-and-children-in-candelabrum.webp",
+    "width": 225,
+    "height": 467,
+    "png_bytes": 283916,
+    "webp_bytes": 181624,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-horns-griffins-and-children-in-candelabrum.png",
+        "webp": "webp/128/paired-horns-griffins-and-children-in-candelabrum.webp",
+        "width": 62,
+        "height": 128,
+        "png_bytes": 27748,
+        "webp_bytes": 19406
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-horns-griffins-and-children-in-candelabrum.png",
+        "webp": "webp/256/paired-horns-griffins-and-children-in-candelabrum.webp",
+        "width": 123,
+        "height": 256,
+        "png_bytes": 97625,
+        "webp_bytes": 67908
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Kandelabergroteske",
+      "object_identifier": "O2013.2",
+      "date": "1549",
+      "artist": "Aldegrever, Heinrich",
+      "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/kandelabergroteske/O2013.2/dc00101642",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "b7f0487b6955fdfaf202605fcdedf2a088e254a7d5037f9aa395fa189f48c70d",
+      "image_url": "https://www.mkg-hamburg.de/object/dc00101642/image-download/0",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 241,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 467,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two central horns sprouting a wide arrangement of broad curling leafy tendrils.",
+    "categories": [
+      "floral",
+      "scrollwork"
+    ],
+    "subjects": [
+      "horn",
+      "leaf",
+      "scroll",
+      "flower"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "paired-horns-sprouting-broad-leafy-tendrils",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-422504",
+    "png": "png/paired-horns-sprouting-broad-leafy-tendrils.png",
+    "webp": "webp/paired-horns-sprouting-broad-leafy-tendrils.webp",
+    "width": 1925,
+    "height": 791,
+    "png_bytes": 3210868,
+    "webp_bytes": 2085340,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/paired-horns-sprouting-broad-leafy-tendrils.png",
+        "webp": "webp/128/paired-horns-sprouting-broad-leafy-tendrils.webp",
+        "width": 128,
+        "height": 53,
+        "png_bytes": 24101,
+        "webp_bytes": 16662
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/paired-horns-sprouting-broad-leafy-tendrils.png",
+        "webp": "webp/256/paired-horns-sprouting-broad-leafy-tendrils.webp",
+        "width": 256,
+        "height": 105,
+        "png_bytes": 84557,
+        "webp_bytes": 56416
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/paired-horns-sprouting-broad-leafy-tendrils.png",
+        "webp": "webp/512/paired-horns-sprouting-broad-leafy-tendrils.webp",
+        "width": 512,
+        "height": 210,
+        "png_bytes": 292778,
+        "webp_bytes": 186044
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/paired-horns-sprouting-broad-leafy-tendrils.png",
+        "webp": "webp/768/paired-horns-sprouting-broad-leafy-tendrils.webp",
+        "width": 768,
+        "height": 316,
+        "png_bytes": 611505,
+        "webp_bytes": 384926
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Horizontal Panel with Two Tendrils Sprouting Upwards from Horns at Center",
+      "object_identifier": "27.23.74",
+      "date": "1525–61",
+      "artist": "Heinrich Aldegrever",
+      "record_url": "https://www.metmuseum.org/art/collection/search/422504",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "f538de1b6c43eabfe5a1c0b0ecd2297a52c2caba86dc2119120ff93852428ea7",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP836787.jpg",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3053,
+      "height": 1263
+    },
+    "master_longest_dimension_cap": 1925,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A complete original printed rectangular frame of alternating palmettes and paired scrolls, with four original printer corner joins and a transparent text opening. The upper band is narrower than the other three sides. Part of the Schön Neues Modelbuch (Page 2 recto) (met-680571) set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "palmette",
+      "scroll",
+      "frame"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "palmette-scroll-printer-frame",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-680571",
+    "png": "png/palmette-scroll-printer-frame.png",
+    "webp": "webp/palmette-scroll-printer-frame.webp",
+    "width": 2164,
+    "height": 1762,
+    "png_bytes": 1008128,
+    "webp_bytes": 590378,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/palmette-scroll-printer-frame.png",
+        "webp": "webp/128/palmette-scroll-printer-frame.webp",
+        "width": 128,
+        "height": 104,
+        "png_bytes": 11737,
+        "webp_bytes": 6264
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/palmette-scroll-printer-frame.png",
+        "webp": "webp/256/palmette-scroll-printer-frame.webp",
+        "width": 256,
+        "height": 208,
+        "png_bytes": 48724,
+        "webp_bytes": 22096
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/palmette-scroll-printer-frame.png",
+        "webp": "webp/512/palmette-scroll-printer-frame.webp",
+        "width": 512,
+        "height": 417,
+        "png_bytes": 170040,
+        "webp_bytes": 75850
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/palmette-scroll-printer-frame.png",
+        "webp": "webp/768/palmette-scroll-printer-frame.webp",
+        "width": 768,
+        "height": 625,
+        "png_bytes": 345787,
+        "webp_bytes": 160864
+      }
+    ],
+    "svg": "svg/palmette-scroll-printer-frame.svg",
+    "viewbox": [
+      0,
+      0,
+      2164,
+      1762
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Schön Neues Modelbuch (Page 2 recto)",
+      "object_identifier": "20.16(2r)",
+      "date": "1597",
+      "artist": "Johann Sibmacher",
+      "record_url": "https://www.metmuseum.org/art/collection/search/680571",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "da9d453a2b644ef54fa8df0adfddab42bf457abf899d8d550c4dcc836091f758",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP363467.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Retained reviewed extraction; preserve its original proportions.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-680571-set",
+        "name": "Schön Neues Modelbuch (Page 2 recto) (met-680571)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3000,
+      "height": 2239
+    },
+    "master_longest_dimension_cap": 2164,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "svg",
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Right engraved leafy shrub cluster with its source-visible branch ends. Part of the Livre Nouveau de Fleurs set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "branch",
+      "shrub"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "right-leafy-shrub-cluster",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-425823",
+    "png": "png/right-leafy-shrub-cluster.png",
+    "webp": "webp/right-leafy-shrub-cluster.webp",
+    "width": 311,
+    "height": 235,
+    "png_bytes": 56746,
+    "webp_bytes": 36976,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/right-leafy-shrub-cluster.png",
+        "webp": "webp/128/right-leafy-shrub-cluster.webp",
+        "width": 128,
+        "height": 97,
+        "png_bytes": 23424,
+        "webp_bytes": 13022
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/right-leafy-shrub-cluster.png",
+        "webp": "webp/256/right-leafy-shrub-cluster.webp",
+        "width": 256,
+        "height": 193,
+        "png_bytes": 81572,
+        "webp_bytes": 49036
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\"",
+      "object_identifier": "53.600.261(5)",
+      "date": "1645",
+      "artist": "Nicolas Cochin",
+      "record_url": "https://www.metmuseum.org/art/collection/search/425823",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "9f4afcf3269955d64878e31d9dc1e52262f4464443d9326bd49ea9db1193b199",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP837396.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Native source print strokes and measured ink tone isolated from paper. Contacting figures and their linking props remain one original group. Source grain retained without an inaccurate vector alternative; no native upscaling or newly drawn anatomy.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "livre-nouveau-de-fleurs",
+        "name": "Livre Nouveau de Fleurs"
+      },
+      {
+        "id": "met-425823-set",
+        "name": "Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\" (met-425823)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3343,
+      "height": 2339
+    },
+    "master_longest_dimension_cap": 311,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Small original foreground shrub and its intrinsic hatched mound. Part of the Livre Nouveau de Fleurs set.",
+    "categories": [
+      "floral"
+    ],
+    "subjects": [
+      "shrub",
+      "leaf",
+      "mound"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "standalone",
+    "name": "small-foreground-shrub-on-hatched-mound",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-425823",
+    "png": "png/small-foreground-shrub-on-hatched-mound.png",
+    "webp": "webp/small-foreground-shrub-on-hatched-mound.webp",
+    "width": 333,
+    "height": 112,
+    "png_bytes": 23707,
+    "webp_bytes": 15516,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-foreground-shrub-on-hatched-mound.png",
+        "webp": "webp/128/small-foreground-shrub-on-hatched-mound.webp",
+        "width": 128,
+        "height": 43,
+        "png_bytes": 9154,
+        "webp_bytes": 5412
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-foreground-shrub-on-hatched-mound.png",
+        "webp": "webp/256/small-foreground-shrub-on-hatched-mound.webp",
+        "width": 256,
+        "height": 86,
+        "png_bytes": 31075,
+        "webp_bytes": 18956
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\"",
+      "object_identifier": "53.600.261(5)",
+      "date": "1645",
+      "artist": "Nicolas Cochin",
+      "record_url": "https://www.metmuseum.org/art/collection/search/425823",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "9f4afcf3269955d64878e31d9dc1e52262f4464443d9326bd49ea9db1193b199",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP837396.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Tiny original print motif retained at its actual native size. Uncertain source details remain ambiguous in the metadata; no hidden anatomy or exaggerated resolution reconstructed. Original continuous ink coverage, PNG/WebP.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "livre-nouveau-de-fleurs",
+        "name": "Livre Nouveau de Fleurs"
+      },
+      {
+        "id": "met-425823-set",
+        "name": "Horizontal Panel with a Row of Flowers Above a Frieze with Figures in a Landscape, from \"Livre Nouveau de Fleurs Tres-Util\" (met-425823)"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 3343,
+      "height": 2339
+    },
+    "master_longest_dimension_cap": 333,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A thin finite border panel with oval-loop ends and three central star knots. Part of the Modelbuch knots and floral diamonds set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "loop",
+      "star",
+      "knot"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "small-oval-loops-and-three-star-knots-panel",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-681251",
+    "png": "png/small-oval-loops-and-three-star-knots-panel.png",
+    "webp": "webp/small-oval-loops-and-three-star-knots-panel.webp",
+    "width": 1182,
+    "height": 56,
+    "png_bytes": 62720,
+    "webp_bytes": 40948,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/small-oval-loops-and-three-star-knots-panel.png",
+        "webp": "webp/128/small-oval-loops-and-three-star-knots-panel.webp",
+        "width": 128,
+        "height": 6,
+        "png_bytes": 1980,
+        "webp_bytes": 1392
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/small-oval-loops-and-three-star-knots-panel.png",
+        "webp": "webp/256/small-oval-loops-and-three-star-knots-panel.webp",
+        "width": 256,
+        "height": 12,
+        "png_bytes": 8258,
+        "webp_bytes": 4670
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/small-oval-loops-and-three-star-knots-panel.png",
+        "webp": "webp/512/small-oval-loops-and-three-star-knots-panel.webp",
+        "width": 512,
+        "height": 24,
+        "png_bytes": 30093,
+        "webp_bytes": 16226
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/small-oval-loops-and-three-star-knots-panel.png",
+        "webp": "webp/768/small-oval-loops-and-three-star-knots-panel.webp",
+        "width": 768,
+        "height": 36,
+        "png_bytes": 62210,
+        "webp_bytes": 34952
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Page from Ein new kunstlich Modelbuch...(Page 2r)",
+      "object_identifier": "22.84.1(2r)",
+      "date": "1544",
+      "artist": "Peter Quentel",
+      "record_url": "https://www.metmuseum.org/art/collection/search/681251",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "bae677b486ebff0386efabee060e4f417621c1443b94c9ee08e94d357d8e8918",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP357021.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The original finite strip is retained. Similar ends alone do not establish a full repeating cycle; no seamless tile or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-681251-set",
+        "name": "Modelbuch knots and floral diamonds"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2003,
+      "height": 2559
+    },
+    "master_longest_dimension_cap": 1182,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Faded original engraved sunburst rays with an open center. Part of the De Bry B alphabet ornaments set.",
+    "categories": [
+      "geometric"
+    ],
+    "subjects": [
+      "sunburst",
+      "ray"
+    ],
+    "facing": "front",
+    "colors": [
+      "brown",
+      "gray"
+    ],
+    "composition": "single-ornament",
+    "name": "sunburst-rays-with-open-center",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101865",
+    "png": "png/sunburst-rays-with-open-center.png",
+    "webp": "webp/sunburst-rays-with-open-center.webp",
+    "width": 105,
+    "height": 80,
+    "png_bytes": 5758,
+    "webp_bytes": 3870,
+    "variants": [],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+      "object_identifier": "O1913.136",
+      "date": "1595",
+      "artist": "Bry, Johann Theodor de",
+      "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43",
+      "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Original printed radial strokes isolated from paper; the central lettering is excluded. The source is a 364x500 scan, with only 105x80 native pixels in this input, and retains its original fading. No redrawn rays, invented symmetry, upscale, generic sunburst or inferred repeat. Original native ink coverage is represented using measured print tone; no unsupported SVG.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "mkg-dc00101865-set",
+        "name": "De Bry B alphabet ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 364,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 105,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two children contacting a tall continuous fruiting leafy scroll.",
+    "categories": [
+      "humans",
+      "floral"
+    ],
+    "subjects": [
+      "child",
+      "leaf",
+      "fruit",
+      "scroll"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "two-children-in-tall-fruiting-leaf-scroll",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101613",
+    "png": "png/two-children-in-tall-fruiting-leaf-scroll.png",
+    "webp": "webp/two-children-in-tall-fruiting-leaf-scroll.webp",
+    "width": 143,
+    "height": 469,
+    "png_bytes": 174828,
+    "webp_bytes": 116756,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-children-in-tall-fruiting-leaf-scroll.png",
+        "webp": "webp/128/two-children-in-tall-fruiting-leaf-scroll.webp",
+        "width": 39,
+        "height": 128,
+        "png_bytes": 17210,
+        "webp_bytes": 11476
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-children-in-tall-fruiting-leaf-scroll.png",
+        "webp": "webp/256/two-children-in-tall-fruiting-leaf-scroll.webp",
+        "width": 78,
+        "height": 256,
+        "png_bytes": 59704,
+        "webp_bytes": 39678
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Laubwerkfüllung mit zwei Putten",
+      "object_identifier": "O1907.751",
+      "date": "1535",
+      "artist": "Aldegrever, Heinrich",
+      "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/laubwerkfullung-zwei-putten/O1907.751/dc00101613",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "fd932fde6ef96937a03b2b5fca870dcc31e0f02b259a24bda4539f46d580a0d5",
+      "image_url": "https://www.mkg-hamburg.de/object/dc00101613/image-download/0",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 139,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 469,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "Two different flower-vase pedestals alternate with braided diamond knots in a finite original panel. Part of the Modelbuch knots and floral diamonds set.",
+    "categories": [
+      "floral",
+      "geometric"
+    ],
+    "subjects": [
+      "vase",
+      "flower",
+      "knot"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "composition": "single-ornament",
+    "name": "two-flower-vases-and-braided-diamonds-panel",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "met-681251",
+    "png": "png/two-flower-vases-and-braided-diamonds-panel.png",
+    "webp": "webp/two-flower-vases-and-braided-diamonds-panel.webp",
+    "width": 1181,
+    "height": 283,
+    "png_bytes": 237504,
+    "webp_bytes": 143306,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/two-flower-vases-and-braided-diamonds-panel.png",
+        "webp": "webp/128/two-flower-vases-and-braided-diamonds-panel.webp",
+        "width": 128,
+        "height": 31,
+        "png_bytes": 11335,
+        "webp_bytes": 5392
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/two-flower-vases-and-braided-diamonds-panel.png",
+        "webp": "webp/256/two-flower-vases-and-braided-diamonds-panel.webp",
+        "width": 256,
+        "height": 61,
+        "png_bytes": 40436,
+        "webp_bytes": 17878
+      },
+      {
+        "max_dimension": 512,
+        "rendered_max_dimension": 512,
+        "png": "png/512/two-flower-vases-and-braided-diamonds-panel.png",
+        "webp": "webp/512/two-flower-vases-and-braided-diamonds-panel.webp",
+        "width": 512,
+        "height": 123,
+        "png_bytes": 141523,
+        "webp_bytes": 64434
+      },
+      {
+        "max_dimension": 768,
+        "rendered_max_dimension": 768,
+        "png": "png/768/two-flower-vases-and-braided-diamonds-panel.png",
+        "webp": "webp/768/two-flower-vases-and-braided-diamonds-panel.webp",
+        "width": 768,
+        "height": 184,
+        "png_bytes": 275522,
+        "webp_bytes": 136016
+      }
+    ],
+    "derivation": "native-ink-extraction",
+    "provenance": {
+      "institution": "Metropolitan Museum of Art",
+      "title": "Page from Ein new kunstlich Modelbuch...(Page 2r)",
+      "object_identifier": "22.84.1(2r)",
+      "date": "1544",
+      "artist": "Peter Quentel",
+      "record_url": "https://www.metmuseum.org/art/collection/search/681251",
+      "image_rights": "CC0 Open Access; isPublicDomain=true",
+      "rights_url": "https://www.metmuseum.org/policies/image-resources",
+      "source_sha256": "bae677b486ebff0386efabee060e4f417621c1443b94c9ee08e94d357d8e8918",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP357021.jpg",
+      "method": "native-ink-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "The original finite strip is retained. Similar ends alone do not establish a full repeating cycle; no seamless tile or corner atlas inferred.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "met-681251-set",
+        "name": "Modelbuch knots and floral diamonds"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 2003,
+      "height": 2559
+    },
+    "master_longest_dimension_cap": 1181,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "A small upper grotesque face mask. Part of the De Bry B alphabet ornaments set.",
+    "categories": [
+      "humans",
+      "hybrids"
+    ],
+    "subjects": [
+      "face",
+      "mask",
+      "grotesque"
+    ],
+    "facing": "front",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "upper-grotesque-face-mask",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101865",
+    "png": "png/upper-grotesque-face-mask.png",
+    "webp": "webp/upper-grotesque-face-mask.webp",
+    "width": 29,
+    "height": 35,
+    "png_bytes": 1591,
+    "webp_bytes": 928,
+    "variants": [],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+      "object_identifier": "O1913.136",
+      "date": "1595",
+      "artist": "Bry, Johann Theodor de",
+      "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43",
+      "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent ornament isolated from the capital B; original source is only 364x500 pixels, so no source upscaling or claimed recovered detail. Exact original, source bounds, processing and guide retained. Large letter framework and unrelated motifs excluded.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "mkg-dc00101865-set",
+        "name": "De Bry B alphabet ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 364,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 35,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An urn with a tall curling plume. Part of the De Bry B alphabet ornaments set.",
+    "categories": [
+      "scrollwork"
+    ],
+    "subjects": [
+      "urn",
+      "plume",
+      "scroll"
+    ],
+    "facing": "unclear",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "urn-with-tall-curling-plume",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101865",
+    "png": "png/urn-with-tall-curling-plume.png",
+    "webp": "webp/urn-with-tall-curling-plume.webp",
+    "width": 60,
+    "height": 126,
+    "png_bytes": 11247,
+    "webp_bytes": 6228,
+    "variants": [],
+    "derivation": "native-source-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Der Buchstabe B, Blatt aus der Folge \"Nova Alphati Effictio Historiis\"",
+      "object_identifier": "O1913.136",
+      "date": "1595",
+      "artist": "Bry, Johann Theodor de",
+      "record_url": "https://www.mkg-hamburg.de/en/object/dc00101865",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "940798d28cbab372ff44c3b25d8e0fe4e9b6b86f816ef6190d2c12385ab60b43",
+      "image_url": "https://www.mkg-hamburg.de/en/object/dc00101865/image-download/0",
+      "method": "native-source-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Independent ornament isolated from the capital B; original source is only 364x500 pixels, so no source upscaling or claimed recovered detail. Exact original, source bounds, processing and guide retained. Large letter framework and unrelated motifs excluded.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions."
+    ],
+    "sets": [
+      {
+        "id": "mkg-dc00101865-set",
+        "name": "De Bry B alphabet ornaments"
+      }
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 364,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 126,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "description": "An urn supporting three tiers of paired round foliate scrolls and a top palmette.",
+    "categories": [
+      "floral",
+      "fantasy"
+    ],
+    "subjects": [
+      "urn",
+      "leaf",
+      "scroll",
+      "palmette"
+    ],
+    "facing": "mixed",
+    "colors": [
+      "black",
+      "brown",
+      "cream"
+    ],
+    "composition": "single-ornament",
+    "name": "urn-with-three-tiers-of-foliate-scrolls",
+    "asset_type": "decoration",
+    "kind": "standalone",
+    "repeat_axis": "none",
+    "components": {},
+    "reference": "mkg-dc00101615",
+    "png": "png/urn-with-three-tiers-of-foliate-scrolls.png",
+    "webp": "webp/urn-with-three-tiers-of-foliate-scrolls.webp",
+    "width": 171,
+    "height": 467,
+    "png_bytes": 237982,
+    "webp_bytes": 162820,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/urn-with-three-tiers-of-foliate-scrolls.png",
+        "webp": "webp/128/urn-with-three-tiers-of-foliate-scrolls.webp",
+        "width": 47,
+        "height": 128,
+        "png_bytes": 22065,
+        "webp_bytes": 15022
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/urn-with-three-tiers-of-foliate-scrolls.png",
+        "webp": "webp/256/urn-with-three-tiers-of-foliate-scrolls.webp",
+        "width": 94,
+        "height": 256,
+        "png_bytes": 80699,
+        "webp_bytes": 54394
+      }
+    ],
+    "derivation": "ai-assisted-extraction",
+    "provenance": {
+      "institution": "Museum für Kunst und Gewerbe Hamburg",
+      "title": "Kandelabergroteske",
+      "object_identifier": "O1907.754",
+      "date": "1552",
+      "artist": "Aldegrever, Heinrich",
+      "record_url": "https://www.mkg-hamburg.de/sammlung/objekt/kandelabergroteske/O1907.754/dc00101615",
+      "image_rights": "Public Domain Mark 1.0; object image marked Public Domain",
+      "rights_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "source_sha256": "4b27bfc564d36cf946774ddc9fbe386bc71ddb3e47555cf93f4cb84518aa3b8c",
+      "image_url": "https://www.mkg-hamburg.de/object/dc00101615/image-download/0",
+      "method": "ai-assisted-extraction",
+      "audit": "finished-additions.json"
+    },
+    "usage_notes": [
+      "Whole finite source ornament with original contacting figures and shared props retained. No seamless period or new frame corners inferred. AI-assisted extraction is approximate, not a pixel-exact crop; original, exact prompt and native resolution caps retained.",
+      "Complete image; no verified repeating unit or frame atlas. Preserve its proportions.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "has_transparency": true,
+    "source_canvas": {
+      "width": 183,
+      "height": 500
+    },
+    "master_longest_dimension_cap": 467,
+    "uses": [
+      "image"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  }
+]
